@@ -25,9 +25,22 @@ ftables / iptables, SQM CAKE, Multi-WAN (mwan3), Wi-Fi 7 (MLO).
 
 ### ☕ Apoie o Desenvolvimento / Support
 
-Se algum desses projetos ou guias te economizou tempo ou te ajudou em alguma bancada/projeto, sinta-se à vontade para me pagar um café. Qualquer apoio incentiva novas pesquisas, testes de novos roteadores e ferramentas abertas!
+Se algum desses projetos ou guias te economizou tempo ou te ajudou em alguma bancada/projeto, sinta-se à vontade para me apoiar. Qualquer valor incentiva novas pesquisas, testes de novos roteadores e ferramentas abertas!
 
-<a href="https://www.buymeacoffee.com/despensativo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 48px !important;width: 174px !important;" ></a>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/despensativo" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" >
+  </a>
+</p>
+
+<details>
+  <summary>🇧🇷 <b>Apoiar via Pix (Brasil)</b></summary>
+  <br>
+
+  > **Chave Aleatória:**  
+  > 8e4ae808-3a54-4b91-bd4a-0e4249cd3787
+
+</details>
 
 ---
 
