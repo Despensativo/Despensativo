@@ -41,9 +41,9 @@ Se algum desses projetos ou guias te economizou tempo ou te ajudou em alguma ban
   </p>
 
   **Pix Copia e Cola:**
-  ``text
-  00020101021126580014br.gov.bcb.pix01368e4ae808-3a54-4b91-bd4a-0e4249cd37875204000053039865802BR5917HEDSON C DA SILVA6013APARECIDA DE 62070503***6304BE1E
-  ``
+```text
+00020101021126580014br.gov.bcb.pix01368e4ae808-3a54-4b91-bd4a-0e4249cd37875204000053039865802BR5917HEDSON C DA SILVA6013APARECIDA DE 62070503***6304BE1E
+```
 
   > **Titular:** Hedson C da Silva  
   > **Chave Aleatória:** `8e4ae808-3a54-4b91-bd4a-0e4249cd3787`
